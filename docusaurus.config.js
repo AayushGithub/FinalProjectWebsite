@@ -18,7 +18,7 @@ module.exports = {
       title: 'Final Project ChemBE F20',
       logo: {
         alt: 'My Site Logo',
-        src: '../assets/websitelogo.svg',
+        src: 'img/websitelogo.svg',
       },
       items: [
         {

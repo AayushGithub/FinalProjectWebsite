@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
+  title: 'Final Project ChemBE MEB (Fall 2020) - BlueJayChemBE (Aayush Gandhi, Jimmy Hu, Mia Grahn)',
+  tagline: 'CRISPR Enables Crisper Detection of COVID',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',

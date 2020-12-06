@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     title: 'COVID-19 and the pandemic',
-    imageUrl: '../assets/world.svg',
+    imageUrl: '../assets/world.png',
     description: (
       <>
        The December 2019 outbreak of a novel respiratory virus, SARS-CoV-2, has become an ongoing
@@ -19,7 +19,7 @@ global pandemic due in part to the challenge of identifying symptomatic, asympto
   },
   {
     title: 'CRISPR-based diagnostics',
-    imageUrl: '../assets/dna.svg',
+    imageUrl: '../assets/dna.png',
     description: (
       <>
         We utilize RNA and DNA-targetinga

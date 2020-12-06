@@ -1,13 +1,13 @@
 module.exports = {
   title: 'Final Project ChemBE MEB (Fall 2020) - BlueJayChemBE (Aayush Gandhi, Jimmy Hu, Mia Grahn)',
   tagline: 'CRISPR Enables Crisper Detection of COVID',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://finalproject-chembe-f20.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Aayush Gandhi', // Usually your GitHub org/user name.
+  projectName: 'FinalProjectWebsite', // Usually your repo name.
   themeConfig: {
     colorMode: {
       // "light" | "dark"
@@ -15,21 +15,21 @@ module.exports = {
       respectPrefersColorScheme: false,
     },
     navbar: {
-      title: 'My Site',
+      title: 'Final Project ChemBE F20',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: '../assets/websitelogo.svg',
       },
       items: [
         {
           to: 'docs/',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: 'Project Details',
           position: 'left',
         },
         {to: 'blog', label: 'About Us', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/AayushGithub/FinalProjectWebsite',
           label: 'GitHub',
           position: 'right',
         },
@@ -39,45 +39,15 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Style Guide',
-              to: 'docs/',
-            },
-            {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
           title: 'More',
           items: [
             {
-              label: 'Blog',
+              label: 'About Us',
               to: 'blog',
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/AayushGithub/FinalProjectWebsite',
             },
           ],
         },
@@ -93,13 +63,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/AayushGithub/FinalProjectWebsite',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/AayushGithub/FinalProjectWebsite',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

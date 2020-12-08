@@ -24,7 +24,7 @@ global pandemic due in part to the challenge of identifying symptomatic, asympto
       <>
         We utilize RNA and DNA-targetinga
 enzymes can augment gold-standard PCR-based testing which can be made rapid, portable and
-accurate.
+accurate. The novel approach described in our project skips all the conversion and amplification steps of traditional RT-PCR, using CRISPR to directly detect the viral RNA.
       </>
     ),
   },

@@ -18,6 +18,7 @@
     "@mdx-js/react": "^1.6.21",
     "@react-spring/three": "^9.0.0-rc.3",
     "@react-three/cannon": "^0.5.3",
+    "@react-three/drei": "^2.2.10",
     "clsx": "^1.1.1",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",

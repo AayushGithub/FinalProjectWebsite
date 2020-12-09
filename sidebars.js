@@ -5,6 +5,7 @@ module.exports = {
     "Process Diagrams": ['processflowdiagrams','part1diagram','part2diagram','part3diagram','part4diagram','pdms'],
     "Process Design": ['processdesign'],
     "Calculations": ['calculations','exampleworking'],
-    "Process Economics": ['processeconomics']
+    "Process Economics": ['processeconomics'],
+    "Fun Stuff":['funstuff']
   },
 };

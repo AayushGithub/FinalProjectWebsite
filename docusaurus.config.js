@@ -14,6 +14,7 @@ module.exports = {
       defaultMode: 'dark',
       respectPrefersColorScheme: false,
     },
+    themes: ['@docusaurus/theme-live-codeblock'],
     navbar: {
       title: 'Final Project ChemBE F20',
       logo: {

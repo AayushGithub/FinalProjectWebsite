@@ -14,10 +14,17 @@
   "dependencies": {
     "@docusaurus/core": "2.0.0-alpha.69",
     "@docusaurus/preset-classic": "2.0.0-alpha.69",
+    "@docusaurus/theme-live-codeblock": "^2.0.0-alpha.69",
     "@mdx-js/react": "^1.6.21",
+    "@react-spring/three": "^9.0.0-rc.3",
+    "@react-three/cannon": "^0.5.3",
     "clsx": "^1.1.1",
     "react": "^16.8.4",
-    "react-dom": "^16.8.4"
+    "react-dom": "^16.8.4",
+    "react-three-fiber": "^5.3.7",
+    "react-use-gesture": "^8.0.1",
+    "three": "^0.123.0",
+    "threejs-meshline": "^2.0.12"
   },
   "browserslist": {
     "production": [

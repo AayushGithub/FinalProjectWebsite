@@ -8,7 +8,6 @@ import styles from './styles.module.css';
 import { useMemo, useRef } from 'react'
 import * as THREE from 'three'
 import * as meshline from 'threejs-meshline'
-import { Text,draco } from '@react-three/drei'
 import { Canvas, useLoader, useFrame, useThree, extend } from 'react-three-fiber'
 extend(meshline)
 

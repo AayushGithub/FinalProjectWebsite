@@ -9,3 +9,4 @@ Since our sample well must have dimensions 2mm x 2mm x 10mm (40(mu) L), the thic
 ## *One test receptacle which contains all the necessary substances for the testing of one individual is represented here*
 *This is 3D model, modelled in CAD. STL files and 3D printable objects are available on demand.*
 ![processdiagram](../assets/3dmodel.png)
+![processdiagram](../assets/3dmodelgrid.png)
